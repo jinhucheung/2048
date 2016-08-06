@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://localhost:8080/my2048/" href="My2048.jnlp">
+<information>
+<title> My2048 Demo Application</title>
+<vendor> ZJH </vendor>
+<description>A Game </description>
+<offline-allowed/>
+</information>
+<resources>
+<java version="1.7.0+"/>
+<jar href="My2048.jar"/>
+</resources>
+<application-desc/>
+</jnlp>
