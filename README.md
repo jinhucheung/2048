@@ -3,7 +3,6 @@
 
 The Game 2048 By Java Swing.
 
-First release at my account https://github.com/JhPocket/2048
 
 preview
 =======
